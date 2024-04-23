@@ -126,35 +126,35 @@ print(y_prednew)
 ```
 ## Output:
 
-# dataset:
+### dataset:
 
 ![image](https://github.com/dhivyapriyar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119477552/6b7df026-e749-40c7-906d-3f017b853d30)
 
-# dataset.dtypes:
+### dataset.dtypes:
 
 ![image](https://github.com/dhivyapriyar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119477552/95bb2187-609c-4e3c-bace-b0ac257cf1c9)
 
-# dataset:
+### dataset:
 
 ![image](https://github.com/dhivyapriyar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119477552/ca100799-ce4b-4f4a-9802-fa48470dbb7a)
 
-# Y:
+### Y:
 
 ![image](https://github.com/dhivyapriyar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119477552/97c9b014-30d1-49cd-a428-c1c5a26c91fb)
 
-# y_pred:
+### y_pred:
 
 ![image](https://github.com/dhivyapriyar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119477552/ec4c6ddd-c02a-4f67-8945-bf7b61a5e30f)
 
-# Y:
+### Y:
 
 ![image](https://github.com/dhivyapriyar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119477552/52013f69-7099-46c9-ba56-9494f91f3e2a)
 
-# y_prednew:
+### y_prednew:
 
 ![image](https://github.com/dhivyapriyar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119477552/1031d98d-eea9-47b0-a115-0315fa9b6cf5)
 
-# y_prednew:
+### y_prednew:
 
 ![image](https://github.com/dhivyapriyar/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119477552/0f5e361b-c0d5-4a98-a135-fc3a3ed2164e)
 
